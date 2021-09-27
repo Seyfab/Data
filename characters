@@ -1,0 +1,12 @@
+characters = [
+  {
+    name: "Seyf",
+    age: 28,
+    job: "web developer"
+  },
+  {
+    name: "Dragon",
+    age: 1590,
+    job: "protecor"
+   }
+]
